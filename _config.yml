@@ -1,0 +1,23 @@
+name: Birds of a Feather
+favicon: null
+layout_spectrum: 0.8051243708468974
+typography_spectrum: 0.37736695096828043
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.07927215052768588
+  lightness: 0.7586640464141965
+  saturation: 0.18495565373450518
+  rhythmicContrast: 0.0686829392798245
+purpose: []
